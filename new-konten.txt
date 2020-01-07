@@ -2,6 +2,11 @@ Membuat New konten
 - Membuat Blog
   + Review Game
   + Review Movie
+  + Review Buku
+- Membuat Youtube
+- Membuat Vlog
+- Membuat Cover Bass
+- Membuat Lagu Sendiri
   + Review Cover
 - Membuat Youtube
 - Membuat Vlog
