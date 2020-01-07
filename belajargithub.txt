@@ -2,5 +2,5 @@ Belajar Git-Hub
 - Langkah Pertama
 - Langkah ke dua
 - Langkah ke tiga
-- Langkah Baru
 - Langkah Super Baru
+- Langkah Revolusi
