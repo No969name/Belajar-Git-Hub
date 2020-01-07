@@ -2,6 +2,9 @@ Membuat New konten
 - Membuat Blog
   + Review Game
   + Review Movie
+  + Review Cover
 - Membuat Youtube
 - Membuat Vlog
 - Membuat Cover Bass
+  + Bass Dear God
+- Membuat Musik Digital
