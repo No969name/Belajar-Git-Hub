@@ -4,3 +4,4 @@ Membuat New konten
   + Review Movie
 - Membuat Youtube
 - Membuat Vlog
+- Membuat Cover Bass
