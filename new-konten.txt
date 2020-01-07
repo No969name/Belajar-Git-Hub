@@ -1,0 +1,6 @@
+Membuat New konten
+- Membuat Blog
+  + Review Game
+  + Review Movie
+- Membuat Youtube
+- Membuat Vlog
